@@ -1,0 +1,98 @@
+[
+{
+    "id": 1,
+    "image": "https://i.ibb.co/X2pvp4s/Spaghetti-Bolognese.jpg",
+    "name": "Spaghetti Bolognese",
+    "short_description": "Classic Italian pasta dish with a rich meat sauce.",
+    "ingredients": [
+      "250g spaghetti",
+      "400g ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "1 tablespoon olive oil"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": 450
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/ZGC2Hx9/Chicken-Stir-Fry.jpg",
+    "name": "Chicken Stir-Fry",
+    "short_description": "Quick and healthy chicken stir-fry with vegetables.",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "1 small onion, thinly sliced",
+      "2 cloves garlic, minced",
+      "2 tablespoons soy sauce"
+    ],
+    "preparing_time": "25 minutes",
+    "calories": 320
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/T4F9dhQ/Caprese-Salad.jpg",
+    "name": "Caprese Salad",
+    "short_description": "Fresh and simple Italian salad with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "2 large tomatoes",
+      "200g fresh mozzarella cheese",
+      "1/2 cup fresh basil leaves",
+      "2 tablespoons balsamic vinegar",
+      "2 tablespoons olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "15 minutes",
+    "calories": 180
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/FmQ0qkr/Beef-Tacos.jpg",
+    "name": "Beef Tacos",
+    "short_description": "Delicious Mexican-style beef tacos with a variety of toppings.",
+    "ingredients": [
+      "500g ground beef",
+      "1 tablespoon taco seasoning",
+      "8 small flour tortillas",
+      "1 cup shredded lettuce",
+      "1/2 cup diced tomatoes",
+      "1/4 cup chopped cilantro"
+    ],
+    "preparing_time": "20 minutes",
+    "calories": 380
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/zVMyhnC/Vegetable-Curry.jpg",
+    "name": "Vegetable Curry",
+    "short_description": "Flavorful vegetarian curry.",
+    "ingredients": [
+      "1 cup cauliflower florets",
+      "1 cup carrots, sliced",
+      "1 cup green beans",
+      "1 medium onion, chopped",
+      "2 cloves garlic, minced",
+      "2 tablespoons curry powder"
+    ],
+    "preparing_time": "40 minutes",
+    "calories": 250
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/QPfcNSm/Blueberry-Pancakes.jpg",
+    "name": "Blueberry Pancakes",
+    "short_description": "Fluffy pancakes filled with juicy blueberries.",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tablespoons sugar",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon salt",
+      "1 cup milk",
+      "1/2 cup fresh blueberries"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": 220
+  }
+]
